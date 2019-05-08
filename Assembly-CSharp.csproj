@@ -67,6 +67,9 @@
     <Compile Include="Assets\Example\10.Scope\AsTransientExample.cs" />
     <Compile Include="Assets\Example\11.MulteBings\MulteBingsExample.cs" />
     <Compile Include="Assets\Example\12.Bind Instance And New\BindInstanceAndNewExample.cs" />
+    <Compile Include="Assets\Example\13.Bind Primitive Type\FromPrimitiveTypeExample.cs" />
+    <Compile Include="Assets\Example\14.Bind From Method\FromMethodExample.cs" />
+    <Compile Include="Assets\Example\15.Bind From Factory\FromFactoryExample.cs" />
     <Compile Include="Assets\Example\2.Constructor Injection\ConstructorInjectionExample.cs" />
     <Compile Include="Assets\Example\2.Constructor Injection\ConstructorInjectionInstaller.cs" />
     <Compile Include="Assets\Example\3.Field Injection\FieldInjectionExample.cs" />
